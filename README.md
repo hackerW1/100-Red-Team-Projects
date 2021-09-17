@@ -159,5 +159,5 @@ compliance with the following convention:
 #### Example:
 
 ```
-[91] Web Exploitation Framework - <C> | Sato Raiden
+[91] Web Exploitation Framework - <C> | Hyoudou Raiden
 ```
